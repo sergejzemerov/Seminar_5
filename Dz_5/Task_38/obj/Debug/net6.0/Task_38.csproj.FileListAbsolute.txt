@@ -1,0 +1,15 @@
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.csproj.AssemblyReference.cache
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.AssemblyInfoInputs.cache
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.AssemblyInfo.cs
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.csproj.CoreCompileInputs.cache
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\bin\Debug\net6.0\Task_38.exe
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\bin\Debug\net6.0\Task_38.deps.json
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\bin\Debug\net6.0\Task_38.runtimeconfig.json
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\bin\Debug\net6.0\Task_38.dll
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\bin\Debug\net6.0\Task_38.pdb
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.dll
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\refint\Task_38.dll
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.pdb
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\Task_38.genruntimeconfig.cache
+C:\VisualStudioCode\C#\Seminar_5\Dz_5\Task_38\obj\Debug\net6.0\ref\Task_38.dll
